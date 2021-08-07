@@ -1,13 +1,13 @@
-<h1 align="center">Ola eus ou o Johnny Alison</h1>
+<h1 align="center">Ola eu sou o Johnny Alison 😊</h1>
 <h3 align="center">Desenvolvedor full stack jr</h3>
 
 ##
 
-- 🔭 I’m currently working on [Beequalite](https://beequalite.herokuapp.com/#/login)
+- 🔭 Estou trabalhando neste projeto = [Pride Filmes](https://pridefilmes.netlify.app/index.html)
 
-- 🌱 I’m currently learning **QA,.NET e PostgreSQL**
+- 📚 Estou estudando HTML, CSS, Javascript e testes automáticos.
 
-- 📫 How to reach me **jal.johnny13@gmail.com**
+- 🏳‍🌈 Meus pronomes são = ele/dele
 
 
 <div>
@@ -17,7 +17,7 @@
 </div>
 <div style="display: inline_block"><br>
   
-  <img align="center"  alt="johnny-java"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svc">
+  <img align="center"  alt="johnny-java"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="johnny-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="johnny-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="johnny-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
