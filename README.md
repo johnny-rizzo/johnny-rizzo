@@ -1,7 +1,7 @@
 <h1 align="center">Ola eu sou o Johnny Alison 😊</h1>
 <h3 align="center">Desenvolvedor full stack jr</h3>
 
-##
+
 
 - 🔭 Estou trabalhando neste projeto = [Pride Filmes](https://pridefilmes.netlify.app/index.html)
 
