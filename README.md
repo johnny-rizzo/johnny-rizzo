@@ -1,4 +1,4 @@
-<h1 align="center">Ola eu sou o Johnny Alison 🌈</h1>
+<h1 align="center">Ola eu sou o Johnny Alison</h1>
 <h3 align="center">Desenvolvedor full stack jr</h3>
 
 
